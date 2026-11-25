@@ -1,0 +1,1 @@
+export function bindInput(canvas,game){canvas.addEventListener('click',e=>{const r=canvas.getBoundingClientRect(),x=(e.clientX-r.left)*1280/r.width,y=(e.clientY-r.top)*720/r.height;game.click(x,y)});window.addEventListener('keydown',e=>{if([' ','Enter','Escape','1','2','3'].includes(e.key))e.preventDefault();game.key(e.key)})}
