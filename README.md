@@ -1,5 +1,11 @@
 # Copper & Clover: The Supper Shift
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/0xjoessi-cmd/copper-and-clover/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/0xjoessi-cmd/copper-and-clover/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
+Built for make.fun's [Make the best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137).
+
 An original, offline desktop-browser cooking game made for make.fun’s “Make the best cooking game” bounty. The game is plain HTML, CSS, and ES modules; its kitchen, ingredients, recipe cards, and dishes are drawn with canvas code, and the tiny sound cues are synthesized with Web Audio.
 
 ## Play
